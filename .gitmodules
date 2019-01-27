@@ -1,0 +1,3 @@
+[submodule "OpenGLES20Activity/app/src/main/cpp/glm_0_9_9_0_fe7c7b5/glm"]
+	path = OpenGLES20Activity/app/src/main/cpp/glm_0_9_9_0_fe7c7b5/glm
+	url = ../../g-truc/glm.git
