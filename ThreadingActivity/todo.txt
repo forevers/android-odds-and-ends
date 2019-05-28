@@ -1,0 +1,3 @@
+
+- impl native and android thread callbacks ... utilize runOnUiThread(new Runnable() ... to post a UI based action
+- impl more functionality in thread pool
